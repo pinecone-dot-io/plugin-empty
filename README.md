@@ -1,4 +1,4 @@
 plugin-empty
 ============
 
-basic structure and files for wordpress plugin
+a little bit of structure for your wordpress plugin
