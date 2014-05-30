@@ -1,4 +1,8 @@
 <?
 
+namespace plugin_empty;
+
+require __DIR__.'/functions.php';
+
 if( is_admin() )
-	require dirname( __FILE__ ).'/admin.php';
+	require __DIR__.'/admin.php';

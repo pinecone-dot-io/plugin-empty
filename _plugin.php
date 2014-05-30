@@ -6,7 +6,7 @@ Description: 	a little bit of structure for your wordpress plugin
 Author: 		pinecone-dot-io
 Text Domain:	plugin-empty
 Domain Path:	/lang
-Version:		0.0.1
+Version:		0.0.2
 Author URI: 	http://pinecone.io
 */
 

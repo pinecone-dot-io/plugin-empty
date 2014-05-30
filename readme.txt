@@ -17,5 +17,8 @@ Empty Plugin
 
 == Changelog ==
 
+= 0.0.2 =
+* added namespace, render()
+
 = 0.0.1 =
 * initial commit

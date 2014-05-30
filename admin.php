@@ -1,1 +1,3 @@
 <?
+
+namespace plugin_empty;
