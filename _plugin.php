@@ -1,4 +1,4 @@
-<?
+<?php
 /*
 Plugin Name: 	plugin-empty
 Plugin URI: 	https://github.com/pinecone-dot-io/plugin-empty
